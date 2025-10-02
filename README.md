@@ -23,3 +23,13 @@
 ### 📃 Connect with Me:  
 - **Discord**: [Click me!](https://discord.com/users/1356850034993397781/)  
 - **Email**: [Click me!](mailto:quartzyeti@disroot.org)  
+
+---
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=evincing&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/evincing"
+    width="600"
+    height="120"
+  />
+</a>

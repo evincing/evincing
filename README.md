@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 Languages:  
-![Languages](https://img.shields.io/badge/Code-|%20Java%20|%20JS%20|%20Python%20|%20HTML%20|%20Lua%20|%20CSS-blueviolet?style=flat&logo=github)  
+![Languages](https://img.shields.io/badge/Code-%20Java%20|%20Javascript%20|%20Python%20|%20HTML%20|%20Lua%20|%20CSS-blueviolet?style=flat&logo=github)  
 
 ---
 

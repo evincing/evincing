@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jace!  
+# 👋 Hi there, I'm Jade!  
 
 ---
 

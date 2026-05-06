@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jade!  
+# 👋 Hi there, I'm Jett!  
 
 ---
 
